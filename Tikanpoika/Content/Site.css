@@ -36,3 +36,13 @@ input[type="select"] {
         padding: 0;
     }
 }
+
+.navbar-custom {
+    background: #1F5FB9;
+
+}
+
+.container-custom {
+    background: #174b95;
+
+}
