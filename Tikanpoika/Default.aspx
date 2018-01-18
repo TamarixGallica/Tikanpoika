@@ -33,7 +33,7 @@
                 Uudistetulla keskustelualueella voit osallistua itseäsi kiinnostaviin aiheisiin juuri silloin, kun sinulle sopii.
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Haluan tietää lisää</a>
+                <a class="btn btn-default" href="#">Haluan tietää lisää</a>
             </p>
         </div>
     </div>
