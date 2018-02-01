@@ -13,5 +13,13 @@ namespace Tikanpoika.Views
         {
 
         }
+
+        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Int32 tuoteID;
+            tuoteID = (Int32) GridView1.SelectedValue;
+            this.Session["tuoteid"] = tuoteID;
+            Response.Redirect("Tuote.aspx");
+        }
     }
 }
